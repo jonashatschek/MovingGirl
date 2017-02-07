@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Girl
+comment0.text=\r\n\ A\ Girl\ that\ can\ jump\ on\ platforms\ and\ have\ fun.\r\n\ \r\n\ @author\ Thomas\ Ejnefj\u00E4ll\ \r\n\ @version\ 2014-06-04\r\n
+comment1.params=
+comment1.target=Girl()
+comment1.text=\r\n\ Constructs\ a\ Girl.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ Check\ if\ the\ user\ has\ pressed\ any\ keys\ used\ in\ the\ game.\ If\ so\ act\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ checkForBlobCollision()
+numComments=5

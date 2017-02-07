@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Platform
+comment0.text=\r\n\ A\ Platform\ that\ can\ be\ jumped\ onto.\r\n\ \r\n\ @author\ Thomas\ Ejnefj\u00E4ll\ \r\n\ @version\ 2014-06-04\r\n
+comment1.params=
+comment1.target=Platform()
+comment1.text=\r\n\ Constructs\ a\ Platform.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
